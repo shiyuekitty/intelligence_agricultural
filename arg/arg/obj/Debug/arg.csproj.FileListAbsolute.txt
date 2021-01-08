@@ -1,0 +1,47 @@
+C:\Users\l\Desktop\175044201\arg\arg\bin\Debug\arg.exe.config
+I:\175044201\arg\arg\bin\Debug\arg.exe.config
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.csprojResolveAssemblyReference.cache
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.Form1.resources
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.Properties.Resources.resources
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.csproj.GenerateResource.Cache
+C:\Users\l\Desktop\175044201\arg\arg\bin\Debug\arg.exe
+C:\Users\l\Desktop\175044201\arg\arg\bin\Debug\arg.pdb
+C:\Users\l\Desktop\175044201\arg\arg\bin\Debug\WSN_New_DLL.dll
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.exe
+C:\Users\l\Desktop\175044201\arg\arg\obj\Debug\arg.pdb
+I:\175044201王倩\arg\arg\bin\Debug\arg.exe.config
+I:\175044201王倩\arg\arg\obj\Debug\arg.exe
+I:\175044201王倩\arg\arg\obj\Debug\arg.pdb
+I:\175044201王倩 - 副本\arg\arg\bin\Debug\arg.exe.config
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.exe
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.pdb
+I:\175044201王倩 - 副本\arg\arg\bin\Debug\arg.exe
+I:\175044201王倩 - 副本\arg\arg\bin\Debug\arg.pdb
+I:\175044201王倩 - 副本\arg\arg\bin\Debug\WSN_New_DLL.dll
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.csprojResolveAssemblyReference.cache
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.Form1.resources
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.Properties.Resources.resources
+I:\175044201王倩 - 副本\arg\arg\obj\Debug\arg.csproj.GenerateResource.Cache
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\arg.exe.config
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.exe
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.pdb
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.csprojAssemblyReference.cache
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.Form1.resources
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.Properties.Resources.resources
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.csproj.GenerateResource.cache
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.csproj.CoreCompileInputs.cache
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.exe
+F:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.pdb
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.csprojResolveAssemblyReference.cache
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.Form1.resources
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.Properties.Resources.resources
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.csproj.GenerateResource.Cache
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\arg.exe
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\arg.pdb
+I:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\WSN_New_DLL.dll
+G:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\arg.exe.config
+G:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.exe
+G:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.pdb
+J:\school_task\junior\无线传感器网络\agriculture\arg\arg\bin\Debug\arg.exe.config
+J:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.exe
+J:\school_task\junior\无线传感器网络\agriculture\arg\arg\obj\Debug\arg.pdb
